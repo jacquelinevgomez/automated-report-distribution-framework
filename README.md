@@ -9,7 +9,7 @@ The framework was designed to reduce repetitive reporting tasks by automating re
 ## Technologies Used
 
 - Microsoft Power Automate
-- Excel Office Scripts
+- Office Scripts (Language: TypeScript)
 - Microsoft OneDrive
 - Excel
 
